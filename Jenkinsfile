@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'pyll request test!'
+                echo 'pull request test!'
             }
         }
     }
